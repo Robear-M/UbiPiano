@@ -13,7 +13,7 @@ https://www.analyticsvidhya.com/blog/2021/07/building-a-hand-tracking-system-usi
 - Anna Khalus
 - Christiana Hellenbrand
 - Erika Samuel
-- Jason 
+- Jason Barican
 - Robert Malloy
   
 ## Running the Application
